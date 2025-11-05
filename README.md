@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Sohaib Riaz
 
-<!--
-**MuhammadSohaibRiaz/MuhammadSohaibRiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder of [RapidNexTech](https://github.com/RapidNexTech)** — building next-generation digital experiences.
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Full Stack Web & Mobile Development (MERN, Next.js, React Native)
+- AI & Automation Workflows (OpenAI, n8n, Zapier)
+- SaaS Products, Workflow Tools & Scalable Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring:
+- AI-powered apps that merge automation + personalization
+- Scalable app architectures and DevOps fundamentals
+
+📫 Reach me:
+- Email: [sohaib@rapidnextech.com](mailto:sohaib@rapidnextech.com)
+- LinkedIn: [linkedin.com/in/muhammadsohaibriaz](https://linkedin.com/in/muhammadsohaibriaz)
+
+⚡ Motto: *Build fast. Build smart. Build for impact.*
+
+---
+
+> “The speed you need, the tech you trust.” – RapidNexTech
